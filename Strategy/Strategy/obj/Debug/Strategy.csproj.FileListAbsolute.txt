@@ -1,0 +1,19 @@
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Strategy\Strategy\obj\Debug\Strategy.pdb
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Strategy\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Strategy\Strategy\obj\Debug\Strategy.pdb
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Strategy\Strategy\bin\Debug\Strategy.exe.config
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Strategy\Strategy\bin\Debug\Strategy.exe
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Strategy\Strategy\bin\Debug\Strategy.pdb
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Strategy\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Strategy\Strategy\obj\Debug\Strategy.exe
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Strategy\Strategy\obj\Debug\Strategy.pdb

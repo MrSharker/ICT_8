@@ -1,0 +1,19 @@
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Decorator\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Decorator\Decorator\bin\Debug\Decorator.exe
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Decorator\Decorator\bin\Debug\Decorator.pdb
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Decorator\Decorator\obj\Debug\Decorator.exe
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Decorator\Decorator\obj\Debug\Decorator.pdb
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Decorator\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Decorator\Decorator\bin\Debug\Decorator.exe
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Decorator\Decorator\bin\Debug\Decorator.pdb
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Decorator\Decorator\obj\Debug\Decorator.csprojAssemblyReference.cache
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Decorator\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Decorator\Decorator\obj\Debug\Decorator.exe
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Decorator\Decorator\obj\Debug\Decorator.pdb
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Decorator\Decorator\bin\Debug\Decorator.exe.config
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Decorator\Decorator\bin\Debug\Decorator.exe
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Decorator\Decorator\bin\Debug\Decorator.pdb
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Decorator\Decorator\obj\Debug\Decorator.csprojAssemblyReference.cache
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Decorator\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Decorator\Decorator\obj\Debug\Decorator.exe
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Decorator\Decorator\obj\Debug\Decorator.pdb

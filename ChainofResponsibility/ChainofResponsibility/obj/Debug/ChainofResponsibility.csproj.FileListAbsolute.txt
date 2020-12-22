@@ -1,0 +1,18 @@
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe.config
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.pdb
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.exe
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.pdb
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe.config
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.pdb
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.exe
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.pdb
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe.config
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.pdb
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.csproj.CoreCompileInputs.cache
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.exe
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.pdb
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.csprojAssemblyReference.cache

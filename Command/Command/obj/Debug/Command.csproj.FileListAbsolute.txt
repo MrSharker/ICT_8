@@ -1,0 +1,18 @@
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Command\Command\bin\Debug\Command.exe.config
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Command\Command\bin\Debug\Command.exe
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Command\Command\bin\Debug\Command.pdb
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Command\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Command\Command\obj\Debug\Command.exe
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Command\Command\obj\Debug\Command.pdb
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Command\Command\bin\Debug\Command.exe.config
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Command\Command\bin\Debug\Command.exe
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Command\Command\bin\Debug\Command.pdb
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Command\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Command\Command\obj\Debug\Command.exe
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Command\Command\obj\Debug\Command.pdb
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Command\Command\bin\Debug\Command.exe.config
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Command\Command\bin\Debug\Command.exe
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Command\Command\bin\Debug\Command.pdb
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Command\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Command\Command\obj\Debug\Command.exe
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Command\Command\obj\Debug\Command.pdb

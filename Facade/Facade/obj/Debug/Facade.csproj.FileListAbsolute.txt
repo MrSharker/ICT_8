@@ -1,0 +1,17 @@
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Facade\Facade\bin\Debug\Facade.exe.config
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Facade\Facade\bin\Debug\Facade.exe
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Facade\Facade\bin\Debug\Facade.pdb
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Facade\Facade\obj\Debug\Facade.exe
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Facade\Facade\obj\Debug\Facade.pdb
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Facade\Facade\bin\Debug\Facade.exe.config
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Facade\Facade\bin\Debug\Facade.exe
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Facade\Facade\bin\Debug\Facade.pdb
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Facade\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Facade\Facade\obj\Debug\Facade.exe
+C:\Users\danii\OneDrive\Рабочий стол\ИТМО\Проектирование ИКС\ИКС_Пашов_К33202\ИКС_Пашов_К33202\Facade\Facade\obj\Debug\Facade.pdb
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Facade\Facade\bin\Debug\Facade.exe.config
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Facade\Facade\bin\Debug\Facade.exe
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Facade\Facade\bin\Debug\Facade.pdb
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Facade\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Facade\Facade\obj\Debug\Facade.exe
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Facade\Facade\obj\Debug\Facade.pdb

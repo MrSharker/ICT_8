@@ -1,0 +1,13 @@
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb

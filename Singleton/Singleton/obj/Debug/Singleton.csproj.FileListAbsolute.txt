@@ -1,0 +1,12 @@
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Singleton\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\Singleton\Singleton\obj\Debug\Singleton.pdb
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Singleton\Singleton\bin\Debug\Singleton.exe.config
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Singleton\Singleton\bin\Debug\Singleton.exe
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Singleton\Singleton\obj\Debug\Singleton.exe
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\Singleton\Singleton\obj\Debug\Singleton.pdb

@@ -1,0 +1,12 @@
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\мвидео\Documents\Visual Studio 2015\Projects\ИКС\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\РабСтол\ИТМО\Проектирование ИКС\К33202_Еремин_8_GoF\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
